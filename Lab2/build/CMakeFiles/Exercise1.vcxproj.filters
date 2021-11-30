@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\expression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\polynomial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\logarithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\expression.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\polynomial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\logarithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Amanda\Documents\Skolan\prog2\Lab2.2\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7013F49B-D1AE-3219-A83A-E44246F23AA9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8F381A56-A273-3472-AB83-99FC6B201FA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
