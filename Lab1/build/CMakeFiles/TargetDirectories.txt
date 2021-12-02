@@ -1,0 +1,3 @@
+C:/Users/Amanda/Documents/prog2/Lab1/build/CMakeFiles/Exercise1.dir
+C:/Users/Amanda/Documents/prog2/Lab1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Amanda/Documents/prog2/Lab1/build/CMakeFiles/ZERO_CHECK.dir
